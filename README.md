@@ -36,6 +36,7 @@ https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/do
 | **Style Investing**     |   [style_investing_new.pdf](https://github.com/user-attachments/files/18640893/style_investing_new.pdf) |  |  |  | 
 | **Exchange-Traded Funds part 1**     |   [ETF_structuration.pdf](https://github.com/user-attachments/files/19296367/ETF_structuration.pdf) |  |  |  | 
 | **Exchange-Traded Funds part 2**     |   [ETF_trading.pdf](https://github.com/user-attachments/files/18128066/ETF_trading.pdf)  |   |    |     |
+| **Final Exam April 2025**     |   |   [FINM32225_final_exam_April_2025_correction.pdf](https://github.com/user-attachments/files/19622716/FINM32225_final_exam_April_2025_correction.pdf) |   |     |
 
 ### **OTHER TOPICS IN QUANTITATIVE FINANCE**
 ***
