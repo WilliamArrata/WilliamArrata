@@ -46,3 +46,4 @@ https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/do
 | **Calibration of Risk Neutral Densities** |    [RND_div_paying_short_version.pdf](https://github.com/user-attachments/files/19654821/RND_div_paying_short_version.pdf)| to come |
 | **Calibration of Nelson Siegel Svensson Model** |   [RND.pdf](https://github.com/user-attachments/files/17544779/RND.pdf) | to come |
 | **Deciphering futures indices** |   [Dealing_with_index_futures.pdf](https://github.com/user-attachments/files/18218831/Dealing_with_index_futures.pdf) | to come |
+| **Actuarial Master Thesis Defense Presentation** |  [W_Arrata_CEA_soutenance_12_09_22.pdf](https://github.com/user-attachments/files/19906189/W_Arrata_CEA_soutenance_12_09_22.pdf)|  |
