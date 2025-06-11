@@ -37,6 +37,7 @@ https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/do
 | **Exchange-Traded Funds part 1**     |   [ETF_structuration.pdf](https://github.com/user-attachments/files/19628635/ETF_structuration.pdf)  |  |  |  | 
 | **Exchange-Traded Funds part 2**     |   [ETF_trading.pdf](https://github.com/user-attachments/files/18128066/ETF_trading.pdf)  |   |    |     |
 | **Final Exam April 2025**     |  [FINM32225_final_exam_April_2025.pdf](https://github.com/user-attachments/files/19622722/FINM32225_final_exam_April_2025.pdf) |   [FINM32225_final_exam_April_2025_correction.pdf](https://github.com/user-attachments/files/19622716/FINM32225_final_exam_April_2025_correction.pdf) |   |     |
+| **Resit Exam June 2025**     |   to come  |   to come |   |     |
 
 ### **OTHER TOPICS IN QUANTITATIVE FINANCE**
 ***
