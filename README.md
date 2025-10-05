@@ -49,3 +49,11 @@ https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/do
 | **Deciphering futures indices** |   [Dealing_with_index_futures.pdf](https://github.com/user-attachments/files/18218831/Dealing_with_index_futures.pdf) | to come |
 | **The Libor Market Model** |  [Libor_Market_Model.pdf](https://github.com/user-attachments/files/21109879/Libor_Market_Model.pdf)  |  |
 | **Actuarial Master Thesis Defense Presentation** |  [W_Arrata_CEA_soutenance_12_09_22.pdf](https://github.com/user-attachments/files/19906189/W_Arrata_CEA_soutenance_12_09_22.pdf)|  |
+
+### **MISCELLANEOUS**
+***
+
+| **TOPIC** | **DOCUMENT** | ** **|
+| :---        |     :---:      | :---:  |
+| **Interview** |  [W_Arrata_itw_IILE_04_08_2025.pdf](https://github.com/user-attachments/files/22709892/W_Arrata_itw_IILE_04_08_2025.pdf)|  |
+
