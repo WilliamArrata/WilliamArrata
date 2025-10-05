@@ -50,10 +50,10 @@ https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/do
 | **The Libor Market Model** |  [Libor_Market_Model.pdf](https://github.com/user-attachments/files/21109879/Libor_Market_Model.pdf)  |  |
 | **Actuarial Master Thesis Defense Presentation** |  [W_Arrata_CEA_soutenance_12_09_22.pdf](https://github.com/user-attachments/files/19906189/W_Arrata_CEA_soutenance_12_09_22.pdf)|  |
 
-### **MISCELLANEOUS**
+### **CONFERENCES**
 ***
 
-| **TOPIC** | **DOCUMENT** | ** **|
+| **EVENT** |  **PROGRAMME**| **INTERVIEW** |
 | :---        |     :---:      | :---:  |
-| **Interview** |  [W_Arrata_itw_IILE_04_08_2025.pdf](https://github.com/user-attachments/files/22709892/W_Arrata_itw_IILE_04_08_2025.pdf)|  |
+| **Insurance Investor Live Europe 2025 Summit, London** | [Insurance Investor Live Europe 2025_Event Brochure.pdf](https://github.com/user-attachments/files/22710783/Insurance.Investor.Live.Europe.2025_Event.Brochure.pdf) |  [W_Arrata_itw_IILE_04_08_2025.pdf](https://github.com/user-attachments/files/22709892/W_Arrata_itw_IILE_04_08_2025.pdf)|
 
