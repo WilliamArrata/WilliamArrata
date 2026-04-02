@@ -39,6 +39,7 @@ https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/do
 | **Exchange-Traded Funds part 2**     |   [ETF_trading.pdf](https://github.com/user-attachments/files/18128066/ETF_trading.pdf)  |   |    |     |
 | **Final Exam April 2025**     |  [FINM32225_final_exam_April_2025.pdf](https://github.com/user-attachments/files/19622722/FINM32225_final_exam_April_2025.pdf) |   [FINM32225_final_exam_April_2025_correction.pdf](https://github.com/user-attachments/files/19622716/FINM32225_final_exam_April_2025_correction.pdf) |   |     |
 | **Resit Exam June 2025**     |  [FINM32225_exam_rattrapage_June_2025.pdf](https://github.com/user-attachments/files/20737684/FINM32225_exam_rattrapage_June_2025.pdf)  |    [FINM32225_correction_exam_rattrapage_June_2025.pdf](https://github.com/user-attachments/files/20996142/FINM32225_correction_exam_rattrapage_June_2025.pdf)|   |     |
+| **Final Exam March 2026**     |   [FINM32225_ESSEC_final_exam_2026.pdf](https://github.com/user-attachments/files/26440026/FINM32225_ESSEC_final_exam_2026.pdf)  |  [FINM32225_ESSEC_final_exam_2026_correction.pdf](https://github.com/user-attachments/files/26440036/FINM32225_ESSEC_final_exam_2026_correction.pdf)|   |     |
 
 ### **OTHER TOPICS IN QUANTITATIVE FINANCE**
 ***
